@@ -1,0 +1,16 @@
+CREATE DATABASE journaliste DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+
+USE journaliste;
+
+CREATE TABLE article (
+  id_article int(4) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  titre varchar(50) NOT NULL,
+  texte varchar(600) NOT NULL,
+  appreciation int(6) NOT NULL DEFAULT '0',
+  depreciation int(6) NOT NULL DEFAULT '0',
+  UNIQUE KEY id_article_UNIQUE (id_article)
+);
+
+INSERT INTO article (titre,texte) VALUES ('Scoop','Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.');
+INSERT INTO article (titre,texte) VALUES ('Blitz','Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.');
+INSERT INTO article (titre,texte) VALUES ('Manchette','Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil, quo voluptas nulla pariatur?');
