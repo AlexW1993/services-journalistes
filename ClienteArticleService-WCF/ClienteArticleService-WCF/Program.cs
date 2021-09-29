@@ -21,7 +21,7 @@ namespace ClienteArticleService_WCF
                 article article= new article();
                 article.titre = titre;
                 article.texte = texte;
-                service.ajouterArticle(article);
+                Console.WriteLine(service.ajouterArticle(article));
                 bool error = true;
 
                 while(error == true)
