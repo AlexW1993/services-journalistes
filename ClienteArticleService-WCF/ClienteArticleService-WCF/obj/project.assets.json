@@ -1018,19 +1018,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\F_Des\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Cegep\\2021 session automne\\Services d'échange de données\\TPS\\tp1-services-journalistes\\ClienteArticleService-WCF\\ClienteArticleService-WCF\\ClienteArticleService-WCF.csproj",
+      "projectUniqueName": "C:\\Users\\F_Des\\OneDrive\\Bureau\\tp1Service\\tp1-services-journalistes\\ClienteArticleService-WCF\\ClienteArticleService-WCF\\ClienteArticleService-WCF.csproj",
       "projectName": "ClienteArticleService-WCF",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Cegep\\2021 session automne\\Services d'échange de données\\TPS\\tp1-services-journalistes\\ClienteArticleService-WCF\\ClienteArticleService-WCF\\ClienteArticleService-WCF.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Cegep\\2021 session automne\\Services d'échange de données\\TPS\\tp1-services-journalistes\\ClienteArticleService-WCF\\ClienteArticleService-WCF\\obj\\",
+      "projectPath": "C:\\Users\\F_Des\\OneDrive\\Bureau\\tp1Service\\tp1-services-journalistes\\ClienteArticleService-WCF\\ClienteArticleService-WCF\\ClienteArticleService-WCF.csproj",
+      "packagesPath": "C:\\Users\\F_Des\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\F_Des\\OneDrive\\Bureau\\tp1Service\\tp1-services-journalistes\\ClienteArticleService-WCF\\ClienteArticleService-WCF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\F_Des\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

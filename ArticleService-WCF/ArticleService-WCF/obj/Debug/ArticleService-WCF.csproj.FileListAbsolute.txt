@@ -28,3 +28,33 @@ C:\Users\Admin\Desktop\Cegep\2021 session automne\Services d'échange de donnée
 C:\Users\Admin\Desktop\Cegep\2021 session automne\Services d'échange de données\TPS\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\obj\Debug\ArticleService-WCF.csproj.CopyComplete
 C:\Users\Admin\Desktop\Cegep\2021 session automne\Services d'échange de données\TPS\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\obj\Debug\ArticleService-WCF.dll
 C:\Users\Admin\Desktop\Cegep\2021 session automne\Services d'échange de données\TPS\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\obj\Debug\ArticleService-WCF.pdb
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\ArticleService-WCF.dll.config
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\ArticleService-WCF.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\ArticleService-WCF.pdb
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\BouncyCastle.Crypto.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\Google.Protobuf.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\K4os.Compression.LZ4.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\K4os.Hash.xxHash.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\MySql.Data.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\System.Buffers.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\System.Memory.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\System.Numerics.Vectors.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\Ubiety.Dns.Core.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\Zstandard.Net.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\Google.Protobuf.pdb
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\Google.Protobuf.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\K4os.Compression.LZ4.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\K4os.Hash.xxHash.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\MySql.Data.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\System.Buffers.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\System.Memory.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\System.Numerics.Vectors.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\obj\Debug\ArticleService-WCF.csproj.AssemblyReference.cache
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\obj\Debug\ArticleService-WCF.csproj.CoreCompileInputs.cache
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\obj\Debug\ArticleService-WCF.csproj.CopyComplete
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\obj\Debug\ArticleService-WCF.dll
+C:\Users\F_Des\OneDrive\Bureau\tp1Service\tp1-services-journalistes\ArticleService-WCF\ArticleService-WCF\obj\Debug\ArticleService-WCF.pdb

@@ -9,10 +9,10 @@ namespace ClienteArticleService_WCF
         {
             bool confirmation = false;
             ServiceReference1.ArticleServiceClient service = new ArticleServiceClient();
-            Console.WriteLine("Bonjour et bienvenue au console pour ajouter une article");
+            Console.WriteLine("Bonjour et bienvenue à la console pour ajouter un article");
 
             while(confirmation != true) {
-                Console.WriteLine("Ecrivez vous el titre de votre article :");
+                Console.WriteLine("Ecrivez le titre de votre article :");
                 string titre = Console.ReadLine();
 
                 Console.WriteLine("Ecrivez-vous le texte de votre article :");
@@ -26,7 +26,7 @@ namespace ClienteArticleService_WCF
 
                 while(error == true)
                 {
-                    Console.WriteLine("Voulez-vous ajoter une autre article ? [oui/non]:");
+                    Console.WriteLine("Voulez-vous ajouter un autre article ? [oui/non]:");
                     string choix = Console.ReadLine();
                     choix = choix.ToLower();
                     switch (choix)

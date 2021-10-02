@@ -42,7 +42,7 @@ namespace ArticleService_WCF.com.journal.dao
                 article.Titre = "" + dr["titre"];
                 article.Texte = "" + dr["texte"];
                 article.Appreciation = (int)dr["appreciation"];
-                article.Appreciation = (int)dr["depreciation"];
+                article.Depreciation = (int)dr["depreciation"];
 
                 liste.Add(article);
             }
