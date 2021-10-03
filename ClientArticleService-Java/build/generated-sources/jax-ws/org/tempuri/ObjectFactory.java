@@ -26,10 +26,10 @@ import org.datacontract.schemas._2004._07.articleservice_wcf.Article;
 @XmlRegistry
 public class ObjectFactory {
 
-    private final static QName _AjouterDepreciationResponseAjouterDepreciationResult_QNAME = new QName("http://tempuri.org/", "AjouterDepreciationResult");
-    private final static QName _AjouterAppreciationResponseAjouterAppreciationResult_QNAME = new QName("http://tempuri.org/", "AjouterAppreciationResult");
     private final static QName _ChercherArticlesResponseChercherArticlesResult_QNAME = new QName("http://tempuri.org/", "ChercherArticlesResult");
     private final static QName _AjouterAppreciationArticle_QNAME = new QName("http://tempuri.org/", "article");
+    private final static QName _AjouterAppreciationResponseAjouterAppreciationResult_QNAME = new QName("http://tempuri.org/", "AjouterAppreciationResult");
+    private final static QName _AjouterDepreciationResponseAjouterDepreciationResult_QNAME = new QName("http://tempuri.org/", "AjouterDepreciationResult");
     private final static QName _ChercherArticlesNomArticle_QNAME = new QName("http://tempuri.org/", "nomArticle");
 
     /**
@@ -88,24 +88,6 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
-     * 
-     */
-    @XmlElementDecl(namespace = "http://tempuri.org/", name = "AjouterDepreciationResult", scope = AjouterDepreciationResponse.class)
-    public JAXBElement<String> createAjouterDepreciationResponseAjouterDepreciationResult(String value) {
-        return new JAXBElement<String>(_AjouterDepreciationResponseAjouterDepreciationResult_QNAME, String.class, AjouterDepreciationResponse.class, value);
-    }
-
-    /**
-     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
-     * 
-     */
-    @XmlElementDecl(namespace = "http://tempuri.org/", name = "AjouterAppreciationResult", scope = AjouterAppreciationResponse.class)
-    public JAXBElement<String> createAjouterAppreciationResponseAjouterAppreciationResult(String value) {
-        return new JAXBElement<String>(_AjouterAppreciationResponseAjouterAppreciationResult_QNAME, String.class, AjouterAppreciationResponse.class, value);
-    }
-
-    /**
      * Create an instance of {@link JAXBElement }{@code <}{@link ArrayOfArticle }{@code >}}
      * 
      */
@@ -124,21 +106,39 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
-     * 
-     */
-    @XmlElementDecl(namespace = "http://tempuri.org/", name = "nomArticle", scope = ChercherArticles.class)
-    public JAXBElement<String> createChercherArticlesNomArticle(String value) {
-        return new JAXBElement<String>(_ChercherArticlesNomArticle_QNAME, String.class, ChercherArticles.class, value);
-    }
-
-    /**
      * Create an instance of {@link JAXBElement }{@code <}{@link Article }{@code >}}
      * 
      */
     @XmlElementDecl(namespace = "http://tempuri.org/", name = "article", scope = AjouterDepreciation.class)
     public JAXBElement<Article> createAjouterDepreciationArticle(Article value) {
         return new JAXBElement<Article>(_AjouterAppreciationArticle_QNAME, Article.class, AjouterDepreciation.class, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://tempuri.org/", name = "AjouterAppreciationResult", scope = AjouterAppreciationResponse.class)
+    public JAXBElement<String> createAjouterAppreciationResponseAjouterAppreciationResult(String value) {
+        return new JAXBElement<String>(_AjouterAppreciationResponseAjouterAppreciationResult_QNAME, String.class, AjouterAppreciationResponse.class, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://tempuri.org/", name = "AjouterDepreciationResult", scope = AjouterDepreciationResponse.class)
+    public JAXBElement<String> createAjouterDepreciationResponseAjouterDepreciationResult(String value) {
+        return new JAXBElement<String>(_AjouterDepreciationResponseAjouterDepreciationResult_QNAME, String.class, AjouterDepreciationResponse.class, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://tempuri.org/", name = "nomArticle", scope = ChercherArticles.class)
+    public JAXBElement<String> createChercherArticlesNomArticle(String value) {
+        return new JAXBElement<String>(_ChercherArticlesNomArticle_QNAME, String.class, ChercherArticles.class, value);
     }
 
 }

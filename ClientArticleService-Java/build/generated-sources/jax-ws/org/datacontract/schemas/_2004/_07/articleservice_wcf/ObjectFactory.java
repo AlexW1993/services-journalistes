@@ -37,19 +37,19 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link ArrayOfArticle }
-     * 
-     */
-    public ArrayOfArticle createArrayOfArticle() {
-        return new ArrayOfArticle();
-    }
-
-    /**
      * Create an instance of {@link Article }
      * 
      */
     public Article createArticle() {
         return new Article();
+    }
+
+    /**
+     * Create an instance of {@link ArrayOfArticle }
+     * 
+     */
+    public ArrayOfArticle createArrayOfArticle() {
+        return new ArrayOfArticle();
     }
 
     /**
