@@ -1,4 +1,4 @@
-# TP1-Services Journalistes
+# Services Journalistes
 
 Creation de deux service SOAP (Java et .net) qui communiquent avec deux projet client contraire.
 
