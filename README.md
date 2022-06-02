@@ -8,4 +8,4 @@ Exemple:
 
 -serivce java avec client .net
 
-le projet a été realisé avec collaboration.
+Le projet a été realisé avec collaboration.
